@@ -5,4 +5,4 @@
      * [Building an Image Classifier Using the Sequential API](https://github.com/iAmKankan/exercises/blob/main/Building%20an%20Image%20Classifier%20Using%20the%20Sequential%20API.ipynb)
 
 
-<img src="https://github.com/iAmKankan/exercises/blob/main/front.png" width=50% />
+<img src="https://github.com/iAmKankan/exercises/blob/main/front_c.png" width=70% />
